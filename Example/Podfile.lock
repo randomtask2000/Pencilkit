@@ -1,0 +1,16 @@
+PODS:
+  - Pencilkit (0.1.0)
+
+DEPENDENCIES:
+  - Pencilkit (from `../`)
+
+EXTERNAL SOURCES:
+  Pencilkit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Pencilkit: f99116acda0f57f0d8730c90446c2993bf977892
+
+PODFILE CHECKSUM: ad9871539622b93357ffcdfa2eacb1359245c257
+
+COCOAPODS: 1.8.4

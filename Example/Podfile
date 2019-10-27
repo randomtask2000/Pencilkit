@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Pencilkit_Tests' do
+  pod 'Pencilkit', :path => '../'
+  
+  
+end
