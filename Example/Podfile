@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PencilkitSwiftUI_Tests' do
+  pod 'PencilkitSwiftUI', :path => '../'
+  
+  
+end

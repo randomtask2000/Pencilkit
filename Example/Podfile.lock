@@ -1,0 +1,16 @@
+PODS:
+  - PencilkitSwiftUI (0.1.0)
+
+DEPENDENCIES:
+  - PencilkitSwiftUI (from `../`)
+
+EXTERNAL SOURCES:
+  PencilkitSwiftUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PencilkitSwiftUI: 960c4a2110488c27290ccdb390bd94a37cf80012
+
+PODFILE CHECKSUM: f2b72d6df85eeca7593d2c95a04a2945d2e92d4f
+
+COCOAPODS: 1.8.4
